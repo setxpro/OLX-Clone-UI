@@ -12,6 +12,9 @@ export default createGlobalStyle`
         font-size: calc(60%-8vmin);
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
+    a {
+        text-decoration: none;
+    }
 
     // Defined scrollbar 
 
